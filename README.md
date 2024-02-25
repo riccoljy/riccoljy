@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccoljy&label=Profile%20views&color=0e75b6&style=flat" alt="riccoljy" /> </p>
 
-- Feel free to contact me at **riccoljy@u.nus.edu!**
+- Feel free to contact me at **riccoljy@u.nus.edu**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
