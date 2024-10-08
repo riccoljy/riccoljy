@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccoljy&label=Profile%20views&color=0e75b6&style=flat" alt="riccoljy" /> </p>
 
-- 👨‍💻 All of my projects are available at [riccoljy.github.com](riccoljy.github.com)
+- 👨‍💻 All of my projects are available at [riccoljy.github.com](https://riccoljy.github.com)
 
 - 📫 Reach me at **riccoljy@u.nus.edu!**
 
